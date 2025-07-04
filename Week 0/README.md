@@ -42,7 +42,7 @@ Players must keep the ball from falling off the screen by moving the paddle to b
 
 ## 📁 File
 
-`: The Scratch project file
+'Project 0.sb3': The Scratch project file
 
 ---
 
